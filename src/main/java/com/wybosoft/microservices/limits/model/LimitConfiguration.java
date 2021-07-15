@@ -6,7 +6,7 @@ public class LimitConfiguration {
 	
 	
 	//generate constructor using fields
-	public LimitConfiguration(int minimum, int maximum) {
+	public LimitConfiguration(int maximum, int minimum) {
 		super();
 		
 		this.maximum = maximum;
