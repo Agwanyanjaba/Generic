@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.wybosoft</groupId>
 	<artifactId>limits-service</artifactId>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>limits-service</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
